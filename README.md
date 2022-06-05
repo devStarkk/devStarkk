@@ -26,9 +26,9 @@
 
 </pre><br>
 
-<h2 align="center">Discord Profile</h2><br>
+<h2 align="center">Perfil do Discord</h2><br>
   <p align="center">
-    <a href="https://discord.gg/sFUeS3E6Sz">
+    <a href="https://discord.gg/BDEkns5jzW">
         <img title="Servidor do Discord" alt="devStarkk" src="https://discord.c99.nl/widget/theme-1/917826867795488818.png"/>
     </a>
 </p>
