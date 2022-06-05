@@ -14,7 +14,7 @@
 </p>
 
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">Sobre mim</h2>
 
 🚀・Desenvolvedor de Software
 
@@ -25,3 +25,10 @@
 🔥・Bolsonaro2022
 
 </pre><br>
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/sFUeS3E6Sz">
+        <img title="Servidor do Discord" alt="devStarkk" src="https://discord.c99.nl/widget/theme-1/917826867795488818.png"/>
+    </a>
+</p>
