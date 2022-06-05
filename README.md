@@ -12,3 +12,16 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> 
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>    
 </p>
+
+
+<h2 align="center">Contact me</h2>
+
+🚀・Desenvolvedor de Software
+
+📩・Para contato me chame no discord (faço scripts/softwares privados também!)
+
+💻・Discord - devStarkk#6374
+
+🔥・Bolsonaro2022
+
+</pre><br>
