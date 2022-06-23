@@ -20,7 +20,7 @@
 
 📩・Para contato me chame no discord (faço scripts/softwares privados também!)
 
-💻・Discord - devStarkk#6374
+💻・Discord - Starkk#6374
 
 🔥・Bolsonaro2022
 
