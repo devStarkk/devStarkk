@@ -17,18 +17,15 @@
 <h2 align="center">Sobre mim</h2>
 
 🚀・Desenvolvedor de Software
-
 📩・Para contato me chame no discord (faço scripts/softwares privados também!)
-
 💻・Discord - devStarkk#6374
-
 🔥・Bolsonaro2022
 
 </pre><br>
 
 <h2 align="center">Perfil do Discord</h2><br>
   <p align="center">
-    <a href="https://discord.gg/BDEkns5jzW">
+    <a href="https://discord.com/users/917826867795488818">
         <img title="Servidor do Discord" alt="devStarkk" src="https://discord.c99.nl/widget/theme-1/917826867795488818.png"/>
     </a>
 </p>
